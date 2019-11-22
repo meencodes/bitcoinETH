@@ -109,14 +109,14 @@ text-decoration: none;
   margin-top: 100px;
   margin: 0 auto;
   width: 1000px;
-  color: #fff;
+  color: black;
   padding: 6vh 5vw;
   overflow: hidden;
   position: relative;
   text-align: center;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(170, 171, 171 ,0.8);
   /* filter: brightness(70%); */
-  border: 2px solid #A17205;
+  border: 2px solid black;
   border-radius: 25px
 }
 
