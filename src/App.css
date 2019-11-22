@@ -116,6 +116,8 @@ text-decoration: none;
   text-align: center;
   background-color: rgba(0,0,0,0.8);
   /* filter: brightness(70%); */
+  border: 2px solid #A17205;
+  border-radius: 25px
 }
 
 .btm {
